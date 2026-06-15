@@ -1,6 +1,8 @@
+@use "./layout/header";
+@use "./layout/main";
+@use "./layout/footer";
+
+
 *
-{font-family: "Poppins", sans-serif !important;}
-
-.logorevista
-{width: 10%;}
-
+{font-family: "Poppins", sans-serif !important;
+}
