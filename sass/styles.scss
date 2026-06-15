@@ -1,6 +1,13 @@
-@use "./layout/header";
-@use "./layout/main";
-@use "./layout/footer";
+/* LAYOUTS */
+
+@use "../_layout/header";
+@use "../_layout/main";
+@use "../_layout/footer";
+
+
 *
 {font-family: "Poppins", sans-serif !important;
 }
+
+/* TEST */
+body { background: #00ff00 !important; }
