@@ -1,0 +1,6 @@
+@use "../utilities/extends.scss";
+@use "./layout/header";
+
+.indexheader{
+@extend .indexheader;
+}
